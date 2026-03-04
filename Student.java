@@ -3,6 +3,8 @@ public class Student {
         private int height;
         private String name;
 
+        publci Student() {}
+
 	public Student() {
 	}
 
