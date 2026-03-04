@@ -16,6 +16,7 @@ public class Student {
         }
 
         public int getHeight() {
+			return height;
         }
 
 }
